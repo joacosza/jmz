@@ -109,7 +109,7 @@ li > a {
 
 .form-anim-end {
 	max-height: 450px;
-	transition: max-height 1s;
+	transition: max-height 1.5s;
 }
 
 .form-box {
